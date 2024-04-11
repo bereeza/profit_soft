@@ -1,0 +1,51 @@
+[
+  {
+    "title": "What I've Done",
+    "duration": 3.28,
+    "release": 2007,
+    "genre": "alternative rock, nu-metal",
+    "artist": "Linkin Park"
+  },
+  {
+    "title": "Faint",
+    "duration": 2.42,
+    "release": 2003,
+    "genre": "alternative rock, nu-metal",
+    "artist": "Linkin Park"
+  },
+  {
+    "title": "New Divide",
+    "duration": 4.29,
+    "release": 2009,
+    "genre": "alternative rock, electronic rock",
+    "artist": "Linkin Park"
+  },
+  {
+    "title": "Papercut",
+    "duration": 3.04,
+    "release": 2000,
+    "genre": "alternative rock, nu-metal",
+    "artist": "Linkin Park"
+  },
+  {
+    "title": "Shadow of the Day",
+    "duration": 4.49,
+    "release": 2007,
+    "genre": "alternative rock, post-grunge",
+    "artist": "Linkin Park"
+  },
+  {
+    "title": "Crawling",
+    "duration": 3.29,
+    "release": 2001,
+    "genre": "alternative rock, nu-metal",
+    "artist": "Linkin Park"
+  },
+  {
+    "title": "Somewhere I Belong",
+    "duration": 3.33,
+    "release": 2003,
+    "genre": "alternative rock, nu-metal",
+    "artist": "Linkin Park"
+  }
+]

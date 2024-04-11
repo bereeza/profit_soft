@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Papercut",
+    "duration": 3.04,
+    "release": 2000,
+    "genre": "alternative rock, nu-metal",
+    "artist": "Linkin Park"
+  },
+  {
+    "title": "A Death in the Family",
+    "duration": 3.16,
+    "release": 2019,
+    "genre": "punk rock, alternative metal",
+    "artist": "Sum 41"
+  },
+  {
+    "title": "Let the Sparks Fly",
+    "duration": 3.22,
+    "release": 2012,
+    "genre": "alternative rock, hard rock",
+    "artist": "Thousand Foot Krutch"
+  },
+  {
+    "title": "Crawling",
+    "duration": 3.29,
+    "release": 2001,
+    "genre": "alternative rock, nu-metal",
+    "artist": "Linkin Park"
+  },
+  {
+    "title": "The New Sensation",
+    "duration": 3.34,
+    "release": 2019,
+    "genre": "punk rock, alternative metal",
+    "artist": "Sum 41"
+  },
+  {
+    "title": "Move",
+    "duration": 3.13,
+    "release": 2012,
+    "genre": "alternative rock, hard rock",
+    "artist": "Thousand Foot Krutch"
+  },
+  {
+    "title": "Move",
+    "duration": 3.13,
+    "release": 2012,
+    "genre": "alternative rock, hard rock",
+    "artist": "Thousand Foot Krutch"
+  }
+]

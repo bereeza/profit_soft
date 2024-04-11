@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Catching Fire",
+    "duration": 3.40,
+    "release": 2019,
+    "genre": "punk rock, alternative metal",
+    "artist": "Sum 41"
+  },
+  {
+    "title": "Faint",
+    "duration": 2.42,
+    "release": 2003,
+    "genre": "alternative rock, nu-metal",
+    "artist": "Linkin Park"
+  },
+  {
+    "title": "Courtesy Call",
+    "duration": 3.56,
+    "release": 2012,
+    "genre": "alternative rock, hard rock",
+    "artist": "Thousand Foot Krutch"
+  },
+  {
+    "title": "Shadow of the Day",
+    "duration": 4.49,
+    "release": 2007,
+    "genre": "alternative rock, post-grunge",
+    "artist": "Linkin Park"
+  },
+  {
+    "title": "Light Up the Sky",
+    "duration": 3.38,
+    "release": 2009,
+    "genre": "alternative rock, post-grunge",
+    "artist": "Thousand Foot Krutch"
+  },
+  {
+    "title": "War of Change",
+    "duration": 3.52,
+    "release": 2012,
+    "genre": "alternative rock, hard rock",
+    "artist": "Thousand Foot Krutch"
+  },
+  {
+    "title": "Turning Away",
+    "duration": 3.57,
+    "release": 2019,
+    "genre": "punk rock, alternative metal",
+    "artist": "Sum 41"
+  },
+  {
+    "title": "Never There",
+    "duration": 3.57,
+    "release": 2019,
+    "genre": "punk rock, alternative metal",
+    "artist": "Sum 41"
+  }
+]
