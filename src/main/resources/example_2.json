@@ -2,50 +2,45 @@
   {
     "title": "Untraveled Road",
     "duration": 3.56,
-    "release": 2014,
+    "album": "Oxygen: Inhale",
     "genre": "alternative rock, hard rock",
     "artist": "Thousand Foot Krutch"
   },
   {
     "title": "Move",
     "duration": 3.13,
-    "release": 2012,
+    "album": "The End Is Where We Begin",
     "genre": "alternative rock, hard rock",
     "artist": "Thousand Foot Krutch"
   },
   {
     "title": "New Divide",
     "duration": 4.29,
-    "release": 2009,
+    "album": "Transformers: Revenge of the Fallen – The Album",
     "genre": "alternative rock, electronic rock",
     "artist": "Linkin Park"
   },
   {
     "title": "Heads Will Roll",
     "duration": 3.35,
-    "release": 2019,
+    "album": "Order in Decline",
     "genre": "punk rock, alternative metal",
     "artist": "Sum 41"
   },
   {
-    "title": "Out for Blood",
-    "duration": 3.27,
-    "release": 2019,
-    "genre": "punk rock, alternative metal",
-    "artist": "Sum 41"
+    "title": "Out for Blood"
   },
   {
     "title": "Somewhere I Belong",
     "duration": 3.33,
-    "release": 2003,
+    "album": "Meteora",
     "genre": "alternative rock, nu-metal",
     "artist": "Linkin Park"
   },
   {
     "title": "Fire It Up",
     "duration": 3.12,
-    "release": 2012,
-    "genre": "alternative rock, hard rock",
+    "album": "The End Is Where We Begin",
     "artist": "Thousand Foot Krutch"
   }
 ]

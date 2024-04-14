@@ -1,51 +1,51 @@
 [
   {
-    "title": "Turning Away",
-    "duration": 3.57,
-    "release": 2019,
+    "title": "Fat Lip",
+    "duration": 3.01,
+    "album": "All Killer No Filler",
+    "genre": "punk rock, pop punk",
+    "artist": "Sum 41"
+  },
+  {
+    "title": "Still Waiting",
+    "duration": 2.39,
+    "album": "Does This Look Infected?",
+    "genre": "punk rock",
+    "artist": "Sum 41"
+  },
+  {
+    "title": "Pieces",
+    "duration": 3.02,
+    "album": "Chuck",
+    "genre": "alternative rock",
+    "artist": "Sum 41"
+  },
+  {
+    "title": "Underclass Hero",
+    "duration": 3.14,
+    "album": "Underclass Hero",
+    "genre": "punk rock",
+    "artist": "Sum 41"
+  },
+  {
+    "title": "With Me",
+    "duration": 4.51,
+    "album": "Underclass Hero",
+    "genre": "alternative rock, pop punk",
+    "artist": "Sum 41"
+  },
+  {
+    "title": "Blood in My Eyes",
+    "duration": 3.32,
+    "album": "Screaming Bloody Murder",
     "genre": "punk rock, alternative metal",
     "artist": "Sum 41"
   },
   {
     "title": "Out for Blood",
-    "duration": 3.27,
-    "release": 2019,
-    "genre": "punk rock, alternative metal",
-    "artist": "Sum 41"
-  },
-  {
-    "title": "The New Sensation",
-    "duration": 3.34,
-    "release": 2019,
-    "genre": "punk rock, alternative metal",
-    "artist": "Sum 41"
-  },
-  {
-    "title": "A Death in the Family",
-    "duration": 3.16,
-    "release": 2019,
-    "genre": "punk rock, alternative metal",
-    "artist": "Sum 41"
-  },
-  {
-    "title": "Heads Will Roll",
-    "duration": 3.35,
-    "release": 2019,
-    "genre": "punk rock, alternative metal",
-    "artist": "Sum 41"
-  },
-  {
-    "title": "Never There",
-    "duration": 3.57,
-    "release": 2019,
-    "genre": "punk rock, alternative metal",
-    "artist": "Sum 41"
-  },
-  {
-    "title": "Catching Fire",
-    "duration": 3.40,
-    "release": 2019,
-    "genre": "punk rock, alternative metal",
+    "duration": 3.30,
+    "album": "Order in Decline",
+    "genre": "hard rock, punk rock",
     "artist": "Sum 41"
   }
 ]

@@ -1,0 +1,36 @@
+<Statistics>
+  <items>
+    <items>
+      <value>alternative rock</value>
+      <count>30</count>
+    </items>
+    <items>
+      <value>hard rock</value>
+      <count>14</count>
+    </items>
+    <items>
+      <value>punk rock</value>
+      <count>11</count>
+    </items>
+    <items>
+      <value>nu-metal</value>
+      <count>9</count>
+    </items>
+    <items>
+      <value>alternative metal</value>
+      <count>7</count>
+    </items>
+    <items>
+      <value>post-grunge</value>
+      <count>4</count>
+    </items>
+    <items>
+      <value>electronic rock</value>
+      <count>2</count>
+    </items>
+    <items>
+      <value>pop punk</value>
+      <count>2</count>
+    </items>
+  </items>
+</Statistics>
