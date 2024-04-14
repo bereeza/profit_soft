@@ -2,7 +2,7 @@
 
 Для того, щоб запустити код достатньо виконати наступну команду:
 
-``github.com``
+``git clone https://github.com/bereeza/profit_soft``
 
 # Додатково:
 
@@ -13,7 +13,7 @@
   {
     "title": "What I've Done",
     "duration": 3.28,
-    "release": 2007,
+    "album": "Minutes to Midnight",
     "genre": "alternative rock, nu-metal",
     "artist": "Linkin Park"
   }
