@@ -2,7 +2,7 @@
 
 Для того, щоб запустити код достатньо виконати наступну команду:
 
-``github.com``
+``git clone https://github.com/bereeza/profit_soft``
 
 # Додатково:
 
